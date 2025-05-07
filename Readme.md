@@ -1,14 +1,11 @@
 # Learning Java Language 
 
-```
-Step 1 - Download Java Development Kit 
-```
-```
-Java code runs with two step process Compilation & Execution 
-```
+> Step 1 - Download Java Development Kit 
 
->JDK >> [JRE (Java Runtime Environment) >> JVM (Java Virtual Machine) + Libraries ] + Development Tools 
-
+> Java code runs with two step process Compilation & Execution 
+```
+JDK >> [JRE (Java Runtime Environment) >> JVM (Java Virtual Machine) + Libraries ] + Development Tools 
+```
 ![Compilation Diagram](/img/Compilation%20Diagram.jpeg)
 
 ![Execution Diagram](/img/Execution%20Diagram.jpeg)
