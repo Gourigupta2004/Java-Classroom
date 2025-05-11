@@ -32,5 +32,14 @@ class Main{
 ```
 > Class is a big entity comprise of various functions 
 
+## Writing Broiler Plate in JAVA
 
+```
+class FirstClass {
+    public static void main(String args[]){
+        System.out.println("Hello World"); 
+
+    }
+}
+```
 
